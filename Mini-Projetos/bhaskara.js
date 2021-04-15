@@ -1,3 +1,4 @@
+// GNU General Public License v3.0
 /* Sempre que aprendo uma nova linguagem de programação o primeiro teste que faço para verificar se estou compreendendo os operadores aritméticos, as funcoes e a sintaxe como um tudo, eu desenvolvo um pequeno
  * projeto do qual resolve equacoes de segundo grau dado valores de a, b e c */
 
