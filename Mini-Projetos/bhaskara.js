@@ -16,7 +16,7 @@ const c = -35;
 let delta = Math.pow(b, 2) - 4 * (a * c);
 // Verifica se a é igual a 0 
 if (a == 0) {
-    console.log("o Valor de A deve ser diferente de 0, caso igual equação é linear e não quadrática");
+    console.log("Como delta é menor que zero, a equação não terá raízes reais, pois não existe raiz quadrada de número negativo, finalizando execução.");
 } else if (delta < 0) {
     console.log("Delta negativo impossivel continuar");
 } else {
